@@ -48,7 +48,7 @@ node server.js
 
 ### Option A — Browser
 Open:
-http://localhost:3000
+`http://localhost:3000`
 
 Refreshing should return responses from alternating ports.
 
